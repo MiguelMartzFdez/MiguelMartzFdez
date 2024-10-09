@@ -1,4 +1,4 @@
-# Hello! I'm Miguel Martinez Fernandez 👋
+# Hello! I'm Miguel Martinez Fernandez
 
 ### Digital Chemist | Machine Learning Enthusiast | Python Developer 🧪💻
 
