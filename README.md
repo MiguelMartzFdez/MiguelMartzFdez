@@ -24,6 +24,3 @@ Welcome to my GitHub profile! I'm a researcher at ISQCH CSIC in Zaragoza, focuse
 - Twitter: [@your_handle](link)
 
 ---
-
-*"Science is a way of thinking much more than it is a body of knowledge."* - Carl Sagan
-
