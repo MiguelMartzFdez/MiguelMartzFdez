@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a researcher at ISQCH CSIC in Zaragoza, focuse
 - Python 🐍
 - Pandas, NumPy, Matplotlib 📊
 - Scikit-learn, TensorFlow, PyTorch 🤖
-- Git, GitHub, Docker 🛠️
+- Programs AQME and ROBERT at @jvalegre 🛠️
 - Jupyter Notebooks 📓
 
 
