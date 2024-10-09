@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm a researcher at ISQCH CSIC in Zaragoza, focuse
 
 ### 📫 How to contact me:
 - Email: [miguel.martinez@csic.es](mailto:miguel.martinez@csic.es)
-- LinkedIn: [linkedin.com/in/miguel-martinez-fernandez](link)
-- Twitter: [@MiguelMart96465](link)
-
+- LinkedIn: [linkedin.com/in/miguel-martinez-fernandez](www.linkedin.com/in/miguel-martínez-fernández-634167157)
+- Twitter: [@MiguelMart96465](https://x.com/MiguelMart96465)
 ---
