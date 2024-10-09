@@ -12,11 +12,10 @@ Welcome to my GitHub profile! I'm a researcher at ISQCH CSIC in Zaragoza, focuse
 
 ### 🚀 Technologies and Tools I use:
 - Python 🐍
+- Jupyter Notebooks 📓
 - Pandas, NumPy, Matplotlib 📊
 - Scikit-learn, TensorFlow, PyTorch 🤖
-- Programs AQME and ROBERT at @jvalegre 🛠️
-- Jupyter Notebooks 📓
-
+- Programs AQME and ROBERT from @jvalegre 🛠️
 
 ### 📫 How to contact me:
 - Email: [miguel.martinez@csic.es](mailto:miguel.martinez@csic.es)
