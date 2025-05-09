@@ -11,11 +11,11 @@ Welcome to my GitHub profile! I'm a researcher at ISQCH CSIC in Zaragoza, focuse
 - **Group Collaboration**: Working in multidisciplinary teams.
 
 ### 🚀 Technologies and Tools I use:
-- Python 🐍
-- Jupyter Notebooks 📓
 - Pandas, NumPy, Matplotlib 📊
-- Scikit-learn, TensorFlow, PyTorch 🤖
+- Scikit-learn🤖
 - Programs AQME and ROBERT from @jvalegre 🛠️
+- Developer of ALMOS (Active Learning for Molecular Selection)
+- Contributor to ROBERT (Refiner and Optimizer of a Bunch of Existing Regression Tools)
 
 ### 📫 How to contact me:
 - Email: [miguel.martinez@csic.es](mailto:miguel.martinez@csic.es)
