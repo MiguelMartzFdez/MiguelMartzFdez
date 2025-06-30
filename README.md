@@ -48,6 +48,7 @@ Welcome to my GitHub profile! I'm a researcher at ISQCH (CSIC) in Zaragoza, work
   <a href="https://github.com/MiguelMartzFdez/almos">
     <img src="https://img.shields.io/badge/ALMOS-Active%20Learning%20for%20Molecular%20Selection-blue?style=flat-square&logo=python&logoColor=white" alt="ALMOS Badge">
   </a><br>
+  
   Developer of ALMOS, an end-to-end automated framework for molecular selection. It integrates molecular clustering, active learning loops, and a dedicated GUI. Designed to streamline chemical discovery from database sampling to iterative model-driven selection.
 </p>
 
@@ -55,6 +56,7 @@ Welcome to my GitHub profile! I'm a researcher at ISQCH (CSIC) in Zaragoza, work
   <a href="https://github.com/jvalegre/ROBERT">
     <img src="https://img.shields.io/badge/ROBERT-ML%20Automation%20in%20Chemistry-brightgreen?style=flat-square&logo=flask&logoColor=white" alt="ROBERT Badge">
   </a><br>
+  
   Contributed to the development of a user-friendly GUI for ROBERT, enabling seamless access to its machine learning capabilities for chemistry with no prior coding experience.
 </p>
 
