@@ -4,9 +4,9 @@
 
 <p>
   <a href="https://x.com/MiguelCheminf"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@MiguelCheminf-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
-  <a href="https://scholar.google.com/citations?user=YOUR_ID"><img alt="Google Scholar" src="https://img.shields.io/badge/GoogleScholar-MiguelMartinez-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/miguel-mart%C3%ADnez-fern%C3%A1ndez-634167157/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-MiguelMartinez-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://orcid.org/0009-0002-8538-7250"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0002--8538--7250-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?user=YOUR_ID"><img alt="Google Scholar" src="https://img.shields.io/badge/GoogleScholar-MiguelMartinez-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a>
 </p>
 
 
@@ -72,8 +72,5 @@ Welcome to my GitHub profile! I'm a researcher at ISQCH (CSIC) in Zaragoza, work
 ## 📬 Contact
 
 - 📧 Email: [miguel.martinez@csic.es](mailto:miguel.martinez@csic.es)
-- 🔗 LinkedIn: [Miguel Martinez Fernandez](https://www.linkedin.com/in/miguel-mart%C3%ADnez-fern%C3%A1ndez-634167157/)
-- 🐦 Twitter: [@MiguelCheminf](https://x.com/MiguelCheminf)
-- 🆔 ORCID: [0009-0002-8538-7250](https://orcid.org/0009-0002-8538-7250)
 
 ---
