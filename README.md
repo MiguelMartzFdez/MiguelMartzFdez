@@ -2,7 +2,7 @@
 
 ### Digital Chemist | Machine Learning Enthusiast | Python Developer 🧪💻
 
-Welcome to my GitHub profile! I'm a researcher at [ISQCH (CSIC)](https://isqch.unizar-csic.es/) in Zaragoza, working at the intersection of **digital chemistry**, **machine learning**, and **automation**.
+Welcome to my GitHub profile! I'm a researcher at ISQCH (CSIC) in Zaragoza, working at the intersection of **digital chemistry**, **machine learning**, and **automation**.
 
 ---
 
@@ -42,18 +42,6 @@ Welcome to my GitHub profile! I'm a researcher at [ISQCH (CSIC)](https://isqch.u
 
 - **[ROBERT](https://github.com/jvalegre/ROBERT)** – *Refiner and Optimizer of a Bunch of Existing Regression Tools*  
   Contributed to expanding its active learning capabilities and usability for low-data regimes.
-
----
-
-## 📄 Publications & Talks
-
-(*Puedes añadir aquí tus papers y presentaciones más relevantes. Si lo deseas puedo ayudarte a redactarlo.*)
-
----
-
-## 🏅 Awards & Grants
-
-(*Aquí podrías incluir si has recibido alguna beca, premio o reconocimiento académico o profesional.*)
 
 ---
 
