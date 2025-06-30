@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a researcher at ISQCH (CSIC) in Zaragoza, work
 
 ### 💻 Software & Libraries
 
-- **Programming**: Python (Pandas, NumPy, Scikit-learn, BoTorch, Matplotlib)
+- **Programming**: Python (Pandas, NumPy, Scikit-learn, Matplotlib)
 - **Chemoinformatics**: AQME, RDKit, Open Babel
 - **Automation Tools**: ROBERT, ALMOS
 - **Version Control**: Git, GitHub
@@ -37,11 +37,11 @@ Welcome to my GitHub profile! I'm a researcher at ISQCH (CSIC) in Zaragoza, work
 
 ## 🚀 Projects
 
-- **[ALMOS](https://github.com/MiguelM-CHEMINF/ALMOS)** – *Active Learning for Molecular Selection*  
+- **[ALMOS](https://github.com/MiguelMartzFdez/almos)** – *Active Learning for Molecular Selection*  
   An automated pipeline to optimize chemical properties through iterative learning and molecular generation.
 
 - **[ROBERT](https://github.com/jvalegre/ROBERT)** – *Refiner and Optimizer of a Bunch of Existing Regression Tools*  
-  Contributed to expanding its active learning capabilities and usability for low-data regimes.
+  Contributed to expanding its active learning capabilities in a GUI.
 
 ---
 
