@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Miguel Martinez Fernandez
 
-<p><em>Digital Chemist | Machine Learning in Chemistry | Python Developer</em></p> 🧪💻
+<p><em>Digital Chemist | Machine Learning in Chemistry | Python Developer 🧪💻</em></p> 
 
 <p>
   <a href="https://x.com/MiguelCheminf"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@MiguelCheminf-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
