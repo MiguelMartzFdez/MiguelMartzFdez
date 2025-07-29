@@ -73,6 +73,6 @@ Welcome to my GitHub profile! I'm a researcher at ISQCH (CSIC) in Zaragoza, work
 
 ## 📬 Contact
 
-- 📧 Email: [miguel.martinez@csic.es](mailto:miguel.martinez@csic.es)
+- 📧 Email: [miguel.martinez@csic.es](mailto:miguelmartz22@gmail.com)
 
 ---
