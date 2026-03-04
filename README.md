@@ -103,11 +103,11 @@ AQME provides automated pipelines for:
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MiguelMartzFdez&show_icons=true"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MiguelMartzFdez&show_icons=true&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MiguelMartzFdez&layout=compact"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MiguelMartzFdez&layout=compact&hide_border=true"/>
 </p>
 
 ---
