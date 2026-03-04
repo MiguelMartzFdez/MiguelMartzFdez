@@ -102,9 +102,13 @@ AQME provides automated pipelines for:
 
 # 📊 GitHub Activity
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelMartzFdez&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelMartzFdez&show_icons=true&theme=default&cache_seconds=1800"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMartzFdez&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMartzFdez&layout=compact&theme=default&cache_seconds=1800"/>
+</p>
 
 ---
 
