@@ -100,18 +100,6 @@ AQME provides automated pipelines for:
 
 ---
 
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MiguelMartzFdez&show_icons=true&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MiguelMartzFdez&layout=compact&hide_border=true"/>
-</p>
-
----
-
 # 🎯 Vision & Goals
 
 - 🔄 Integrating **active learning** and **automation** into chemical research workflows
