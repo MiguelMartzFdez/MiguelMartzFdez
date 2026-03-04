@@ -10,66 +10,109 @@
 </p>
 
 
-Welcome to my GitHub profile! I'm a researcher at ISQCH (CSIC) in Zaragoza, working at the intersection of **digital chemistry**, **machine learning**, and **automation**.
+Welcome to my GitHub profile! I'm a researcher at **ISQCH (CSIC)** in Zaragoza, working at the intersection of **digital chemistry**, **machine learning**, and **automation**.
 
 ---
 
-## 🔬 About Me
+# 🔬 About Me
 
 - 🧪 **Researcher in Digital Chemistry** at ISQCH (CSIC), focused on developing tools that integrate automation and data science in chemical research.
 
 - 🤖 **Creator of ALMOS** – *Active Learning for Molecular Selection*, a framework to optimize molecular properties and reaction parameters through automated active learning.
 
-- 🔧 **Contributor to ROBERT**, a tool for automating ML workflows in chemistry.
+- 🖥️ **Developer of easyROB**, a standalone graphical application that makes automated machine learning workflows in chemistry accessible without command lines.
+
+- 🔧 **Contributor to open-source cheminformatics tools** including ROBERT and AQME.
 
 - 🛠️ Passionate about integrating **machine learning**, **Python development**, and **chemical informatics** to streamline and accelerate chemical discovery.
 
 ---
 
-## 🧠 Skills & Tools
+# 🧠 Skills & Tools
 
-### 🧬 Computational Chemistry & ML
+### 🧬 Computational Chemistry & Machine Learning
 
-- **Machine Learning in Chemistry**: Model selection, regression/classification tasks, active learning.
-- **Automation**: Python workflows for chemical data generation and property prediction.
-- **Data Science**: Data wrangling, visualization, and exploratory analysis.
+- **Machine Learning in Chemistry**: Model selection, regression/classification tasks, active learning
+- **Automation**: Python workflows for chemical data generation and property prediction
+- **Data Science**: Data wrangling, visualization, exploratory analysis
 
 ### 💻 Software & Libraries
 
 - **Programming**: Python (Pandas, NumPy, Scikit-learn, Matplotlib)
-- **Chemoinformatics**: AQME, RDKit, Open Babel
-- **Automation Tools**: ROBERT, ALMOS
+- **Chemoinformatics**: RDKit, AQME, Open Babel
+- **Automation Tools**: ALMOS, ROBERT
 - **Version Control**: Git, GitHub
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
+
+## 🧠 Main Research Project
+
 <p>
   <a href="https://github.com/MiguelMartzFdez/almos">
     <img src="https://img.shields.io/badge/ALMOS-Active%20Learning%20for%20Molecular%20Selection-blue?style=flat-square&logo=python&logoColor=white" alt="ALMOS Badge">
   </a><br>
-  
-  Developer of ALMOS, an end-to-end automated framework for molecular selection. It integrates molecular clustering, active learning loops, and a dedicated GUI. Designed to streamline chemical discovery from database sampling to iterative model-driven selection.
+
+Developer of **ALMOS**, an end-to-end automated framework for molecular selection.  
+It integrates molecular clustering, active learning loops, and a dedicated GUI to guide molecular discovery through iterative machine learning-driven selection.
 </p>
+
+---
+
+## 🖥️ Tools & Applications
+
+<p>
+  <a href="https://github.com/MiguelMartzFdez/easyROB">
+    <img src="https://img.shields.io/badge/easyROB-ROBERT%20GUI%20Application-orange?style=flat-square&logo=python&logoColor=white" alt="easyROB Badge">
+  </a><br>
+
+Creator of **easyROB**, a standalone graphical application that makes the ROBERT machine learning workflow accessible without command lines or manual setup.
+
+The application bundles a complete Python environment and all dependencies, allowing users to launch automated ML workflows for chemical optimization directly from CSV files or SMILES with a simple double-click.
+</p>
+
+---
+
+## 🤝 Open Source Contributions
 
 <p>
   <a href="https://github.com/jvalegre/ROBERT">
     <img src="https://img.shields.io/badge/ROBERT-ML%20Automation%20in%20Chemistry-brightgreen?style=flat-square&logo=flask&logoColor=white" alt="ROBERT Badge">
   </a><br>
-  
-  Contributed to the development of a user-friendly GUI for ROBERT, enabling seamless access to its machine learning capabilities for chemistry with no prior coding experience.
+
+Contributor to the development of **ROBERT**, a machine learning automation platform designed to simplify model development and evaluation workflows for chemical datasets.
 </p>
 
+<p>
+  <a href="https://github.com/jvalegre/aqme">
+    <img src="https://img.shields.io/badge/AQME-Automated%20Quantum%20Mechanical%20Environments-purple?style=flat-square&logo=python&logoColor=white" alt="AQME Badge">
+  </a><br>
+
+Contributor to **AQME**, a toolkit for transparent and reproducible computational chemistry workflows.
+
+AQME provides automated pipelines for:
+- RDKit and CREST conformer generation
+- QM input file creation
+- Post-processing of QM output files
+- Descriptor generation using RDKit, xTB and DFT methods
+</p>
 
 ---
 
-## 🎯 Vision & Goals
+# 📊 GitHub Activity
 
-- 🔄 Integrating **active learning** and **automation** in chemical research workflows.
-- 🧪 Bridging the gap between **experimental chemistry** and **machine learning**.
-- 📚 Contributing to open-source tools and training new researchers in digital chemistry.
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelMartzFdez&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMartzFdez&layout=compact)
 
 ---
+
+# 🎯 Vision & Goals
+
+- 🔄 Integrating **active learning** and **automation** into chemical research workflows
+- 🧪 Bridging the gap between **experimental chemistry** and **machine learning**
+- 📚 Contributing to open-source tools and training new researchers in **digital chemistry**
 
 ## 📬 Contact
 
